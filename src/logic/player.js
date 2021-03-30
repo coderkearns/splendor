@@ -1,4 +1,4 @@
-const Hand = require("./hand.js")
+import Hand from "./hand.js"
 
 class Player {
   constructor(name) {

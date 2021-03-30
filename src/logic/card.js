@@ -27,5 +27,7 @@ class Card {
   }
 }
 
-module.exports = Card
-module.exports.map = (card) => {return new Card(card)} 
+export default Card
+export function map (card) {
+  return new Card(card)
+}

@@ -4,7 +4,14 @@ startingChips = {
 
 class ChipPool {
   constructor(playercount) {
-    this.chips = startingChips[playercount] || { diamond: 1, sapphire: 1, emerald: 1, ruby: 1, opal: 1, gold: 1 }
+    this.chips = startingChips[playercount] || {
+      diamond: 1,
+      sapphire: 1,
+      emerald: 1,
+      ruby: 1,
+      opal: 1,
+      gold: 1,
+    }
   }
 
   getChips(gem) {
@@ -28,4 +35,4 @@ class ChipPool {
   }
 }
 
-module.exports = ChipPool
+export default ChipPool

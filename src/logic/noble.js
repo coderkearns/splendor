@@ -4,9 +4,9 @@ class Noble {
     this.cost = noble.cost
   }
 
-  map(noble) {
-    return new Noble(noble)
-  }
 }
 
 module.exports = Noble
+module.exports.map = (noble) => {
+  return new Noble(noble)
+}

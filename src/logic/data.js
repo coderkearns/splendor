@@ -1,8 +1,8 @@
-let cards = require("./cards.json")
-let nobles = require("./nobles.json")
+import cards from "./cards.json"
+import nobles from "./nobles.json"
 
-const Card = require("./card.js")
-const Noble = require("./noble.js")
+import Card from "./card.js"
+import Noble from "./noble.js"
 
 function getCards() {
   return cards.map(Card.map)
@@ -16,7 +16,7 @@ function getNobles() {
   return nobles.map(Noble.map)
 }
 
-module.exports = {
+export default {
   cards: { all: getCards, byLevel: getLevel },
-  nobles: { all: getNobles }
+  nobles: { all: getNobles },
 }
