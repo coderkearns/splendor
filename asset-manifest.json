@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.js": "/splendor/static/js/main.f1be9293.chunk.js",
-    "main.js.map": "/splendor/static/js/main.f1be9293.chunk.js.map",
+    "main.css": "/splendor/static/css/main.816f937d.chunk.css",
+    "main.js": "/splendor/static/js/main.d7b2858d.chunk.js",
+    "main.js.map": "/splendor/static/js/main.d7b2858d.chunk.js.map",
     "runtime-main.js": "/splendor/static/js/runtime-main.5b15e169.js",
     "runtime-main.js.map": "/splendor/static/js/runtime-main.5b15e169.js.map",
-    "static/js/2.7679ae3d.chunk.js": "/splendor/static/js/2.7679ae3d.chunk.js",
-    "static/js/2.7679ae3d.chunk.js.map": "/splendor/static/js/2.7679ae3d.chunk.js.map",
+    "static/js/2.1a1e0ec7.chunk.js": "/splendor/static/js/2.1a1e0ec7.chunk.js",
+    "static/js/2.1a1e0ec7.chunk.js.map": "/splendor/static/js/2.1a1e0ec7.chunk.js.map",
     "index.html": "/splendor/index.html",
-    "static/js/2.7679ae3d.chunk.js.LICENSE.txt": "/splendor/static/js/2.7679ae3d.chunk.js.LICENSE.txt"
+    "static/css/main.816f937d.chunk.css.map": "/splendor/static/css/main.816f937d.chunk.css.map",
+    "static/js/2.1a1e0ec7.chunk.js.LICENSE.txt": "/splendor/static/js/2.1a1e0ec7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b15e169.js",
-    "static/js/2.7679ae3d.chunk.js",
-    "static/js/main.f1be9293.chunk.js"
+    "static/js/2.1a1e0ec7.chunk.js",
+    "static/css/main.816f937d.chunk.css",
+    "static/js/main.d7b2858d.chunk.js"
   ]
 }
