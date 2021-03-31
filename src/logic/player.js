@@ -11,7 +11,7 @@ class Player {
     return this.hand.points + this.nobles.points
   }
 
-  can_buy(card) {
+  canBuy(card) {
     let newprice = card.with_discount(this.hand.discount)
 
     for (let gem of ["diamond", "sapphire", "emerald", "ruby", "opal"]) {
@@ -23,8 +23,8 @@ class Player {
     for (let gem in newprice) total_unpaid += newprice[gem]
     total_unpaid -= this.chips.gold
 
-    return total_unpaid <= 0
+    return total_unpaid >= 0
   }
 }
 
-module.exports = Player
+export default Player

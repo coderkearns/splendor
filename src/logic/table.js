@@ -1,13 +1,13 @@
-const ChipPool = require("./chip-pool.js")
-const data = require("./data.js")
+import ChipPool from "./chip-pool.js"
+import data from "./data.js"
 
-randArr = arr => {
+const randArr = arr => {
   return arr[Math.floor(Math.random() * arr.length)]
 }
 
 class Table {
-  constructor() {
-    this.pool = new ChipPool() // Default players
+  constructor(players) {
+    this.pool = new ChipPool(players)
     this.decks = { 1: [], 2: [], 3: [] }
     this.cards = { 1: [], 2: [], 3: [] }
   }
@@ -45,4 +45,4 @@ class Table {
   }
 }
 
-module.exports = Table
+export default Table

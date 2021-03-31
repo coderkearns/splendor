@@ -1,19 +1,21 @@
 import cards from "./cards.json"
 import nobles from "./nobles.json"
 
-import Card from "./card.js"
-import Noble from "./noble.js"
+import Card, {map as cardMapper} from "./card.js"
+import Noble, {map as nobleMapper} from "./noble.js"
 
 function getCards() {
-  return cards.map(Card.map)
+  return cards.map(cardMapper)
 }
 
 function getLevel(level) {
-  return cards.filter(card => card.level == level).map(Card.map)
+  return cards
+    .filter(card => card.level == level)
+    .map(cardMapper)
 }
 
 function getNobles() {
-  return nobles.map(Noble.map)
+  return nobles.map(nobleMapper)
 }
 
 export default {

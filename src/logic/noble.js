@@ -6,7 +6,7 @@ class Noble {
 
 }
 
-module.exports = Noble
-module.exports.map = (noble) => {
+export default Noble
+export function map(noble) {
   return new Noble(noble)
 }

@@ -1,0 +1,847 @@
+[
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 1,
+    "cost": {
+      "emerald": 4
+    }
+  },
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 0,
+    "cost": {
+      "sapphire": 3
+    }
+  },
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 0,
+    "cost": {
+      "ruby": 2,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 0,
+    "cost": {
+      "sapphire": 2,
+      "opal": 2
+    }
+  },
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 0,
+    "cost": {
+      "sapphire": 1,
+      "emerald": 1,
+      "ruby": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 0,
+    "cost": {
+      "sapphire": 1,
+      "emerald": 2,
+      "ruby": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 0,
+    "cost": {
+      "sapphire": 2,
+      "emerald": 2,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "diamond",
+    "points": 0,
+    "cost": {
+      "diamond": 3,
+      "sapphire": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 1,
+    "cost": {
+      "ruby": 4
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 0,
+    "cost": {
+      "opal": 3
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 0,
+    "cost": {
+      "opal": 2,
+      "diamond": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 0,
+    "cost": {
+      "emerald": 2,
+      "opal": 2
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 0,
+    "cost": {
+      "diamond": 1,
+      "emerald": 1,
+      "ruby": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 0,
+    "cost": {
+      "diamond": 1,
+      "ruby": 2,
+      "emerald": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 0,
+    "cost": {
+      "ruby": 2,
+      "emerald": 2,
+      "diamond": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "sapphire",
+    "points": 0,
+    "cost": {
+      "emerald": 3,
+      "sapphire": 1,
+      "ruby": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 1,
+    "cost": {
+      "opal": 4
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 0,
+    "cost": {
+      "ruby": 3
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 0,
+    "cost": {
+      "diamond": 2,
+      "sapphire": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 0,
+    "cost": {
+      "sapphire": 2,
+      "ruby": 2
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 0,
+    "cost": {
+      "diamond": 1,
+      "sapphire": 1,
+      "ruby": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 0,
+    "cost": {
+      "diamond": 1,
+      "opal": 2,
+      "sapphire": 1,
+      "ruby": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 0,
+    "cost": {
+      "ruby": 2,
+      "opal": 2,
+      "sapphire": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "emerald",
+    "points": 0,
+    "cost": {
+      "sapphire": 3,
+      "diamond": 1,
+      "emerald": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 1,
+    "cost": {
+      "diamond": 4
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 0,
+    "cost": {
+      "diamond": 3
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 0,
+    "cost": {
+      "sapphire": 2,
+      "emerald": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 0,
+    "cost": {
+      "diamond": 2,
+      "ruby": 2
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 0,
+    "cost": {
+      "diamond": 1,
+      "sapphire": 1,
+      "opal": 1,
+      "emerald": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 0,
+    "cost": {
+      "sapphire": 1,
+      "diamond": 2,
+      "emerald": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 0,
+    "cost": {
+      "diamond": 2,
+      "opal": 2,
+      "emerald": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "ruby",
+    "points": 0,
+    "cost": {
+      "opal": 3,
+      "diamond": 1,
+      "ruby": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 1,
+    "cost": {
+      "sapphire": 4
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 0,
+    "cost": {
+      "emerald": 3
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 0,
+    "cost": {
+      "emerald": 2,
+      "ruby": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 0,
+    "cost": {
+      "emerald": 2,
+      "diamond": 2
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 0,
+    "cost": {
+      "diamond": 1,
+      "emerald": 1,
+      "sapphire": 1,
+      "ruby": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 0,
+    "cost": {
+      "diamond": 1,
+      "sapphire": 2,
+      "emerald": 1,
+      "ruby": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 0,
+    "cost": {
+      "diamond": 2,
+      "sapphire": 2,
+      "ruby": 1
+    }
+  },
+  {
+    "level": 1,
+    "gem": "opal",
+    "points": 0,
+    "cost": {
+      "ruby": 3,
+      "emerald": 1,
+      "opal": 1
+    }
+  },
+  {
+    "level": 2,
+    "gem": "diamond",
+    "points": 3,
+    "cost": {
+      "diamond": 6
+    }
+  },
+  {
+    "level": 2,
+    "gem": "diamond",
+    "points": 2,
+    "cost": {
+      "ruby": 5
+    }
+  },
+  {
+    "level": 2,
+    "gem": "diamond",
+    "points": 2,
+    "cost": {
+      "ruby": 5,
+      "opal": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "diamond",
+    "points": 2,
+    "cost": {
+      "emerald": 1,
+      "opal": 2,
+      "ruby": 4
+    }
+  },
+  {
+    "level": 2,
+    "gem": "diamond",
+    "points": 1,
+    "cost": {
+      "emerald": 3,
+      "ruby": 2,
+      "opal": 2
+    }
+  },
+  {
+    "level": 2,
+    "gem": "diamond",
+    "points": 1,
+    "cost": {
+      "diamond": 2,
+      "sapphire": 3,
+      "ruby": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "sapphire",
+    "points": 3,
+    "cost": {
+      "sapphire": 6
+    }
+  },
+  {
+    "level": 2,
+    "gem": "sapphire",
+    "points": 2,
+    "cost": {
+      "sapphire": 5
+    }
+  },
+  {
+    "level": 2,
+    "gem": "sapphire",
+    "points": 2,
+    "cost": {
+      "diamond": 5,
+      "sapphire": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "sapphire",
+    "points": 2,
+    "cost": {
+      "ruby": 1,
+      "diamond": 2,
+      "opal": 4
+    }
+  },
+  {
+    "level": 2,
+    "gem": "sapphire",
+    "points": 1,
+    "cost": {
+      "ruby": 3,
+      "emerald": 2,
+      "sapphire": 2
+    }
+  },
+  {
+    "level": 2,
+    "gem": "sapphire",
+    "points": 1,
+    "cost": {
+      "sapphire": 2,
+      "emerald": 3,
+      "opal": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "emerald",
+    "points": 3,
+    "cost": {
+      "emerald": 6
+    }
+  },
+  {
+    "level": 2,
+    "gem": "emerald",
+    "points": 2,
+    "cost": {
+      "emerald": 5
+    }
+  },
+  {
+    "level": 2,
+    "gem": "emerald",
+    "points": 2,
+    "cost": {
+      "sapphire": 5,
+      "emerald": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "emerald",
+    "points": 2,
+    "cost": {
+      "opal": 1,
+      "sapphire": 2,
+      "diamond": 4
+    }
+  },
+  {
+    "level": 2,
+    "gem": "emerald",
+    "points": 1,
+    "cost": {
+      "sapphire": 3,
+      "diamond": 2,
+      "opal": 2
+    }
+  },
+  {
+    "level": 2,
+    "gem": "emerald",
+    "points": 1,
+    "cost": {
+      "emerald": 2,
+      "diamond": 3,
+      "ruby": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "ruby",
+    "points": 3,
+    "cost": {
+      "ruby": 6
+    }
+  },
+  {
+    "level": 2,
+    "gem": "ruby",
+    "points": 2,
+    "cost": {
+      "opal": 5
+    }
+  },
+  {
+    "level": 2,
+    "gem": "ruby",
+    "points": 2,
+    "cost": {
+      "opal": 5,
+      "diamond": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "ruby",
+    "points": 2,
+    "cost": {
+      "diamond": 1,
+      "emerald": 2,
+      "sapphire": 4
+    }
+  },
+  {
+    "level": 2,
+    "gem": "ruby",
+    "points": 1,
+    "cost": {
+      "opal": 3,
+      "diamond": 2,
+      "ruby": 2
+    }
+  },
+  {
+    "level": 2,
+    "gem": "ruby",
+    "points": 1,
+    "cost": {
+      "ruby": 2,
+      "sapphire": 3,
+      "opal": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "opal",
+    "points": 3,
+    "cost": {
+      "opal": 6
+    }
+  },
+  {
+    "level": 2,
+    "gem": "opal",
+    "points": 2,
+    "cost": {
+      "diamond": 5
+    }
+  },
+  {
+    "level": 2,
+    "gem": "opal",
+    "points": 2,
+    "cost": {
+      "emerald": 5,
+      "ruby": 3
+    }
+  },
+  {
+    "level": 2,
+    "gem": "opal",
+    "points": 2,
+    "cost": {
+      "sapphire": 1,
+      "ruby": 2,
+      "emerald": 4
+    }
+  },
+  {
+    "level": 2,
+    "gem": "opal",
+    "points": 1,
+    "cost": {
+      "diamond": 3,
+      "sapphire": 2,
+      "emerald": 2
+    }
+  },
+  {
+    "level": 2,
+    "gem": "opal",
+    "points": 1,
+    "cost": {
+      "opal": 2,
+      "diamond": 3,
+      "emerald": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "diamond",
+    "points": 5,
+    "cost": {
+      "opal": 7,
+      "diamond": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "diamond",
+    "points": 4,
+    "cost": {
+      "opal": 7
+    }
+  },
+  {
+    "level": 3,
+    "gem": "diamond",
+    "points": 4,
+    "cost": {
+      "opal": 6,
+      "diamond": 3,
+      "ruby": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "diamond",
+    "points": 3,
+    "cost": {
+      "ruby": 5,
+      "sapphire": 3,
+      "emerald": 3,
+      "opal": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "sapphire",
+    "points": 5,
+    "cost": {
+      "diamond": 7,
+      "sapphire": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "sapphire",
+    "points": 4,
+    "cost": {
+      "diamond": 7
+    }
+  },
+  {
+    "level": 3,
+    "gem": "sapphire",
+    "points": 4,
+    "cost": {
+      "diamond": 6,
+      "sapphire": 3,
+      "opal": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "sapphire",
+    "points": 3,
+    "cost": {
+      "opal": 5,
+      "diamond": 3,
+      "emerald": 3,
+      "ruby": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "emerald",
+    "points": 5,
+    "cost": {
+      "sapphire": 7,
+      "emerald": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "emerald",
+    "points": 4,
+    "cost": {
+      "sapphire": 7
+    }
+  },
+  {
+    "level": 3,
+    "gem": "emerald",
+    "points": 4,
+    "cost": {
+      "sapphire": 6,
+      "diamond": 3,
+      "emerald": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "emerald",
+    "points": 3,
+    "cost": {
+      "diamond": 5,
+      "sapphire": 3,
+      "ruby": 3,
+      "opal": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "ruby",
+    "points": 5,
+    "cost": {
+      "emerald": 7,
+      "ruby": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "ruby",
+    "points": 4,
+    "cost": {
+      "emerald": 7
+    }
+  },
+  {
+    "level": 3,
+    "gem": "ruby",
+    "points": 4,
+    "cost": {
+      "emerald": 6,
+      "sapphire": 3,
+      "ruby": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "ruby",
+    "points": 3,
+    "cost": {
+      "sapphire": 5,
+      "diamond": 3,
+      "emerald": 3,
+      "opal": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "opal",
+    "points": 5,
+    "cost": {
+      "ruby": 7,
+      "opal": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "opal",
+    "points": 4,
+    "cost": {
+      "ruby": 7
+    }
+  },
+  {
+    "level": 3,
+    "gem": "opal",
+    "points": 4,
+    "cost": {
+      "ruby": 6,
+      "emerald": 3,
+      "opal": 3
+    }
+  },
+  {
+    "level": 3,
+    "gem": "opal",
+    "points": 3,
+    "cost": {
+      "emerald": 5,
+      "diamond": 3,
+      "sapphire": 3,
+      "ruby": 3
+    }
+  }
+]
